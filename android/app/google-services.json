@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875378909038",
+    "project_id": "fsm-mobile-app-6a2d9",
+    "storage_bucket": "fsm-mobile-app-6a2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875378909038:android:c63d762adce6a923b16b7f",
+        "android_client_info": {
+          "package_name": "com.nalishebo.fsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4ZIOhzWi7u9BRox4KDsLNIpQ6TB05rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
